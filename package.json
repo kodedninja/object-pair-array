@@ -1,0 +1,23 @@
+{
+  "name": "object-pair-array",
+  "version": "1.0.0",
+  "description": "Break up an object into an array of key-value objects",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard && node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kodedninja/object-pair-array.git"
+  },
+  "author": "kodedninja",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kodedninja/object-pair-array/issues"
+  },
+  "homepage": "https://github.com/kodedninja/object-pair-array#readme",
+  "devDependencies": {
+    "standard": "^12.0.1",
+    "tape": "^4.10.1"
+  }
+}
