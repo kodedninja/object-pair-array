@@ -1,6 +1,6 @@
 {
   "name": "object-pair-array",
-  "version": "1.0.0",
+  "version": "0.0.0",
   "description": "Break up an object into an array of key-value objects",
   "main": "index.js",
   "scripts": {
